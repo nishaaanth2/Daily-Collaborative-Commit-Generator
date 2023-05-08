@@ -1,0 +1,3 @@
+##Daily Collaborative Commit Generator
+
+The Daily Collaborative Commit Generator is a program that updates the "namesake.txt" file with random commits each day, ranging from 1 to 6. This program is designed to encourage collaboration on Github by generating a steady stream of commits that showcase the progress being made on a project. With this program, team members can easily track their contributions and stay engaged with the project's development. By automating the commit process, the Daily Collaborative Commit Generator helps to streamline the collaboration process and create a more productive and efficient workflow.
